@@ -1,0 +1,23 @@
+{
+  "name": "im-bored",
+  "version": "1.0.0",
+  "description": "Simple app to generate random suggestions of what to do when you're bored.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jreed6/im-bored.git"
+  },
+  "keywords": [
+    "bored"
+  ],
+  "author": "Jacob Reed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jreed6/im-bored/issues"
+  },
+  "homepage": "https://github.com/jreed6/im-bored#readme"
+}
