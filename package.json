@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node ."
+    "start": "node ."
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,14 @@
   "bugs": {
     "url": "https://github.com/jreed6/im-bored/issues"
   },
-  "homepage": "https://github.com/jreed6/im-bored#readme"
+  "homepage": "https://github.com/jreed6/im-bored#readme",
+  "dependencies": {
+    "color": "^0.11.3"
+  },
+  "devDependencies": {
+    "babel-preset-latest": "^6.16.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-util": "^3.0.7"
+  }
 }
